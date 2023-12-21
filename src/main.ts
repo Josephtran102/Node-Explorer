@@ -29,3 +29,4 @@ setInterval(() => {
     blockStore.fetchLatest().finally(() => (requestCounter.value -= 1));
   }
 }, 6000);
+//test
