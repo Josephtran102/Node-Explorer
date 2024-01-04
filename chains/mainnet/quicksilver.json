@@ -1,7 +1,7 @@
 {
   "chain_name": "quicksilver",
   "coingecko": "",
-  "api": ["http://65.109.116.151:15317"],
+  "api": ["https://quicksilver-mainnet-api.itrocket.net"],
   "rpc": ["https://quicksilver-mainnet-rpc.itrocket.net"],
   "sdk_version": "0.46.7",
   "coin_type": "118",
