@@ -4,7 +4,7 @@
     "api": ["https://uptick-origin3-api.itrocket.net"], 
     "rpc": ["https://uptick-origin3-rpc.itrocket.net"],
     "snapshot_provider": "",
-    "sdk_version": "0.46.9",
+    "sdk_version": "0.46.13",
     "coin_type": "60",
     "min_tx_fee": "40000",
     "addr_prefix": "uptick",
