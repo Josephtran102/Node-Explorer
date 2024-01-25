@@ -4,7 +4,7 @@
   "api": ["https://vota-rest.dorafactory.org"],
   "rpc": ["https://dorafactory-mainnet-rpc.itrocket.net"],
   "snapshot_provider": "",
-  "sdk_version": "0.47.3",
+  "sdk_version": "0.47.5",
   "coin_type": "118",
   "min_tx_fee": "500",
   "addr_prefix": "dora",
