@@ -11,8 +11,8 @@
   "logo": "/logos/dorafactory.jpg",
   "assets": [
     {
-      "base": "upeaka",
-      "symbol": "PEAKA",
+      "base": "udora",
+      "symbol": "DORA",
       "exponent": "6",
       "coingecko_id": "",
       "logo": "/logos/dorafactory.jpg"
