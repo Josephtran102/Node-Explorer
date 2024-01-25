@@ -1,0 +1,21 @@
+{
+  "chain_name": "dorafactory",
+  "coingecko": "",
+  "api": ["https://dorafactory-mainnet-api.itrocket.net"],
+  "rpc": ["https://dorafactory-mainnet-rpc.itrocket.net"],
+  "snapshot_provider": "",
+  "sdk_version": "0.47.3",
+  "coin_type": "118",
+  "min_tx_fee": "500",
+  "addr_prefix": "dora",
+  "logo": "/logos/dorafactory.jpg",
+  "assets": [
+    {
+      "base": "upeaka",
+      "symbol": "PEAKA",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "/logos/dorafactory.jpg"
+    }
+  ]
+}
