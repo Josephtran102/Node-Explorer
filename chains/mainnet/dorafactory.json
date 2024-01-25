@@ -2,7 +2,7 @@
   "chain_name": "dorafactory",
   "coingecko": "",
   "api": ["https://dorafactory-mainnet-api.itrocket.net"],
-  "rpc": ["https://dorafactory-mainnet-rpc.itrocket.net"],
+  "rpc": ["https://vota-rest.dorafactory.org"],
   "snapshot_provider": "",
   "sdk_version": "0.47.3",
   "coin_type": "118",
