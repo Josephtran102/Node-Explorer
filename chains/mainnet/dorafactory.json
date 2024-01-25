@@ -13,7 +13,7 @@
     {
       "base": "udora",
       "symbol": "DORA",
-      "exponent": "6",
+      "exponent": "18",
       "coingecko_id": "",
       "logo": "/logos/dorafactory.jpg"
     }
