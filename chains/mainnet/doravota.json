@@ -1,8 +1,8 @@
 {
-  "chain_name": "dorafactory",
+  "chain_name": "doravota",
   "coingecko": "",
-  "api": ["https://dorafactory-mainnet-api.itrocket.net"],
-  "rpc": ["https://dorafactory-mainnet-rpc.itrocket.net"],
+  "api": ["https://doravota-mainnet-api.itrocket.net"],
+  "rpc": ["https://doravota-mainnet-rpc.itrocket.net"],
   "snapshot_provider": "",
   "sdk_version": "0.47.5",
   "coin_type": "118",
