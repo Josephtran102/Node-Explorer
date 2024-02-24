@@ -10,8 +10,8 @@
     "addr_prefix": "mx",
     "logo": "/logos/crossfi.jpg",
     "assets": [{
-        "base": "umpx",
-        "symbol": "MPX",
+        "base": "mpx",
+        "symbol": "PX",
         "exponent": "18", 
         "coingecko_id": "",
         "logo": "/logos/crossfi.jpg"
