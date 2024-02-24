@@ -1,0 +1,19 @@
+{
+    "chain_name": "crossfi",
+    "coingecko": "",
+    "api": ["https://crossfi-testnet-api.itrocket.net"], 
+    "rpc": ["https://crossfi-testnet-rpc.itrocket.net"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.13",
+    "coin_type": "60",
+    "min_tx_fee": "40000",
+    "addr_prefix": "mx",
+    "logo": "/logos/crossfi.jpg",
+    "assets": [{
+        "base": "umpx",
+        "symbol": "MPX",
+        "exponent": "18", 
+        "coingecko_id": "",
+        "logo": "/logos/crossfi.jpg"
+    }]
+}
