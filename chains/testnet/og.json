@@ -11,8 +11,8 @@
     "logo": "/logos/og.jpg",
     "keplr_features": ["eth-address-gen", "eth-key-sign"],
     "assets": [{
-        "base": "atevmos",
-        "symbol": "TEVMOS",
+        "base": "tevmos",
+        "symbol": "EVMOS",
         "exponent": "18", 
         "coingecko_id": "",
         "logo": "/logos/og.jpg"
