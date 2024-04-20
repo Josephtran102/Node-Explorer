@@ -9,8 +9,8 @@
   "logo": "/logos/mantra.jpg",
   "assets": [
     {
-      "base": "uaum",
-      "symbol": "AUM",
+      "base": "uom",
+      "symbol": "OM",
       "exponent": 6,
       "logo": "/logos/mantra.jpg"
     }
