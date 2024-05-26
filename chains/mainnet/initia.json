@@ -1,8 +1,8 @@
 {
     "chain_name": "initia",
     "coingecko": "",
-    "api": ["https://initia-testnet-api.itrocket.net"],
-    "rpc": ["https://initia-testnet-rpc.itrocket.net"],
+    "api": ["https://initia-api.coinhunterstr.com/"],
+    "rpc": ["https://initia-rpc.coinhunterstr.com/"],
     "snapshot_provider": "",
     "sdk_version": "0.46.0",
     "coin_type": "118",
