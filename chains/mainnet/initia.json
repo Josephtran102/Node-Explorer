@@ -1,7 +1,7 @@
 {
     "chain_name": "initia",
     "coingecko": "",
-    "api": ["https://initia-api.coinhunterstr.com/"],
+    "api": ["http://api.initia.josephtran.xyz:51317"],
     "rpc": ["https://initia-rpc.coinhunterstr.com/"],
     "snapshot_provider": "",
     "sdk_version": "0.46.0",
