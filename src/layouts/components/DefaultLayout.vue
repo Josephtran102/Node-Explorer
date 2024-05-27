@@ -75,6 +75,7 @@ function selected(route: any, nav: NavLink) {
     >
       <div class="flex justify-between mt-1 pl-4 py-4 mb-1">
         <RouterLink to="/" class="flex items-center">
+          <img class="w-12 h-12" src="@/assets/images/favicon.png">
           <h1 class="flex-1 ml-3 text-2xl font-semibold dark:text-white">
             Joseph Tran
           </h1>
