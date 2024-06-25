@@ -1,8 +1,8 @@
 {
     "chain_name": "0gchain",
     "coingecko": "",
-    "api": ["https://0g-api.chainad.org/"], 
-    "rpc": ["https://0g-api.chainad.org/"],
+    "api": ["https://api-0g.mflow.tech/"], 
+    "rpc": ["https://rpc.0gchain.josephtran.xyz/"],
     "snapshot_provider": "",
     "sdk_version": "0.47.5",
     "coin_type": "60",
