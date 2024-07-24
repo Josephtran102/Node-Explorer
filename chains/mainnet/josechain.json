@@ -1,7 +1,7 @@
 {
   "chain_name": "josechain",
-  "api": ["http://37.27.134.110:1317/"],
-  "rpc": ["http://37.27.134.110:26657/"],
+  "api": ["https://api.josechain.josephtran.xyz"],
+  "rpc": ["https://rpc.josechain.josephtran.xyz"],
   "sdk_version": "0.50.3",
   "addr_prefix": "jose",
   "min_tx_fee": "200",
