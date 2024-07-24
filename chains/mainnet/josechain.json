@@ -1,0 +1,17 @@
+{
+  "chain_name": "josechain",
+  "api": ["http://37.27.134.110:1317/"],
+  "rpc": ["http://37.27.134.110:26657/"],
+  "sdk_version": "0.50.3",
+  "addr_prefix": "jose",
+  "min_tx_fee": "200",
+  "logo": "/Users/vietnguyen/explorer/src/assets/images/josechain.jpg",
+  "assets": [
+    {
+      "symbol": "JOS",
+      "base": "amf",
+      "exponent": 6,
+      "logo": "/Users/vietnguyen/explorer/src/assets/images/josechain.jpg"
+    }
+  ]
+}
