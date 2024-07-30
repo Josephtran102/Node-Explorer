@@ -10,7 +10,7 @@
     {
       "symbol": "EMPE",
       "base": "empe",
-      "exponent": 6,
+      "exponent": 3,
       "logo": "/logos/empeiria.jpg"
     }
   ]
