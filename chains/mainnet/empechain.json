@@ -1,0 +1,17 @@
+{
+  "chain_name": "Empe-chain",
+  "api": ["https://api.empe.josephtran.xyz/"],
+  "rpc": ["https://rpc.empe.josephtran.xyz/"],
+  "sdk_version": "0.50.3",
+  "addr_prefix": "empe",
+  "min_tx_fee": "200",
+  "logo": "/logos/empeiria.jpg",
+  "assets": [
+    {
+      "symbol": "EMPE",
+      "base": "empe",
+      "exponent": 6,
+      "logo": "/logos/empeiria.jpg"
+    }
+  ]
+}
