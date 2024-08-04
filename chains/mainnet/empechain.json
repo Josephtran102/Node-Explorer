@@ -5,7 +5,7 @@
   "sdk_version": "0.50.3",
   "addr_prefix": "empe",
   "min_tx_fee": "118",
-  "logo": "/logos/fiamma.jpg",
+  "logo": "/logos/empe.jpg",
   "assets": [
     {
       "symbol": "EMPE",
