@@ -1,0 +1,17 @@
+{
+  "chain_name": "Titan",
+  "api": ["https://api.titan.josephtran.xyz"],
+  "rpc": ["https://rpc.titan.josephtran.xyz"],
+  "sdk_version": "0.50.3",
+  "addr_prefix": "titan",
+  "min_tx_fee": "118",
+  "logo": "/logos/titan.jpg",
+  "assets": [
+    {
+      "symbol": "TTNT",
+      "base": "uttnt",
+      "exponent": 6,
+      "logo": "/logos/titan.jpg"
+    }
+  ]
+}
