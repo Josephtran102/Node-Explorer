@@ -1,0 +1,17 @@
+{
+  "chain_name": "fiamma-testnet",
+  "api": ["https://api.fiamma.josephtran.xyz"],
+  "rpc": ["https://rpc.fiamma.josephtran.xyz"],
+  "sdk_version": "0.50.3",
+  "addr_prefix": "FIA",
+  "min_tx_fee": "118",
+  "logo": "/logos/fiamma.jpg",
+  "assets": [
+    {
+      "symbol": "FIA",
+      "base": "ufia",
+      "exponent": 6,
+      "logo": "/logos/fiamma.jpg"
+    }
+  ]
+}
