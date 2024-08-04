@@ -1,0 +1,17 @@
+{
+  "chain_name": "Symphony",
+  "api": ["https://api.symphony.josephtran.xyz"],
+  "rpc": ["https://rpc.symphony.josephtran.xyz"],
+  "sdk_version": "0.50.3",
+  "addr_prefix": "symphoy",
+  "min_tx_fee": "118",
+  "logo": "/logos/fiamma.jpg",
+  "assets": [
+    {
+      "symbol": "MLD",
+      "base": "not",
+      "exponent": 6,
+      "logo": "/logos/symphony.jpg"
+    }
+  ]
+}
