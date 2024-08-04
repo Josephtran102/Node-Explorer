@@ -7,13 +7,13 @@
     "sdk_version": "0.47.5",
     "coin_type": "60",
     "min_tx_fee": "4000",
-    "addr_prefix": "evmos",
+    "addr_prefix": "0g",
     "logo": "/logos/og.jpg",
     "keplr_features": ["eth-address-gen", "eth-key-sign"],
     "assets": [{
-        "base": "aevmos",
-        "symbol": "EVMOS",
-        "exponent": "18", 
+        "base": "u0agi",
+        "symbol": "0AGI",
+        "exponent": "6", 
         "coingecko_id": "",
         "logo": "/logos/og.jpg"
     }]
