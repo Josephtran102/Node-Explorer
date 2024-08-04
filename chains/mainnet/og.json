@@ -1,20 +1,17 @@
 {
-    "chain_name": "0gchain",
-    "coingecko": "",
-    "api": ["https://api.0gchain.josephtran.xyz/"], 
-    "rpc": ["https://rpc.0gchain.josephtran.xyz/"],
-    "snapshot_provider": "",
-    "sdk_version": "0.47.5",
-    "coin_type": "60",
-    "min_tx_fee": "4000",
-    "addr_prefix": "0g",
-    "logo": "/logos/og.jpg",
-    "keplr_features": ["eth-address-gen", "eth-key-sign"],
-    "assets": [{
-        "base": "u0agi",
-        "symbol": "0AGI",
-        "exponent": "6", 
-        "coingecko_id": "",
-        "logo": "/logos/og.jpg"
-    }]
+  "chain_name": "0gchain",
+  "api": ["https://api.0gchain.josephtran.xyz"],
+  "rpc": ["https://rpc.0gchain.josephtran.xyz"],
+  "sdk_version": "0.50.3",
+  "addr_prefix": "og",
+  "min_tx_fee": "118",
+  "logo": "/logos/og.jpg",
+  "assets": [
+    {
+      "symbol": "0AGI",
+      "base": "u0agi",
+      "exponent": 6,
+      "logo": "/logos/og.jpg"
+    }
+  ]
 }
