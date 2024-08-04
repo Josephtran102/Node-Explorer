@@ -1,17 +1,17 @@
 {
-  "chain_name": "Empe-chain",
-  "api": ["https://api.empe.josephtran.xyz/"],
-  "rpc": ["https://rpc.empe.josephtran.xyz/"],
+  "chain_name": "empe-chain",
+  "api": ["https://api.empe.josephtran.xyz"],
+  "rpc": ["https://rpc.empe.josephtran.xyz"],
   "sdk_version": "0.50.3",
   "addr_prefix": "empe",
-  "min_tx_fee": "200",
-  "logo": "/logos/empeiria.jpg",
+  "min_tx_fee": "118",
+  "logo": "/logos/fiamma.jpg",
   "assets": [
     {
       "symbol": "EMPE",
-      "base": "empe",
-      "exponent": 3,
-      "logo": "/logos/empeiria.jpg"
+      "base": "uempe",
+      "exponent": 6,
+      "logo": "/logos/empe.jpg"
     }
   ]
 }
