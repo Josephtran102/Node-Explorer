@@ -5,13 +5,13 @@
   "sdk_version": "0.50.3",
   "addr_prefix": "symphoy",
   "min_tx_fee": "118",
-  "logo": "/logos/fiamma.jpg",
+  "logo": "/logos/symphony.png",
   "assets": [
     {
       "symbol": "MLD",
       "base": "not",
       "exponent": 6,
-      "logo": "/logos/symphony.jpg"
+      "logo": "/logos/symphony.png"
     }
   ]
 }
