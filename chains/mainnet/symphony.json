@@ -9,7 +9,7 @@
   "assets": [
     {
       "symbol": "MLD",
-      "base": "not",
+      "base": "note",
       "exponent": 6,
       "logo": "/logos/symphony.png"
     }
