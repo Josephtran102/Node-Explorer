@@ -1,6 +1,6 @@
 {
   "chain_name": "Symphony",
-  "api": ["https://api.symphony.josephtran.xyz"],
+  "api": ["https://symphony-api.kleomedes.network"],
   "rpc": ["https://rpc.symphony.josephtran.xyz"],
   "sdk_version": "0.50.3",
   "addr_prefix": "symphoy",
