@@ -3,7 +3,7 @@
   "api": ["https://api-fiamma.josephtran.xyz"],
   "rpc": ["https://rpc-fiamma.josephtran.xyz"],
   "sdk_version": "0.50.3",
-  "addr_prefix": "FIA",
+  "addr_prefix": "fiamma",
   "min_tx_fee": "118",
   "logo": "/logos/fiamma.jpg",
   "assets": [
