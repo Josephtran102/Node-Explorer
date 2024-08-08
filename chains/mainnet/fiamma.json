@@ -1,7 +1,7 @@
 {
   "chain_name": "fiamma-testnet",
-  "api": ["https://api.fiamma.josephtran.xyz"],
-  "rpc": ["https://rpc.fiamma.josephtran.xyz"],
+  "api": ["https://api-fiamma.josephtran.xyz"],
+  "rpc": ["https://rpc-fiamma.josephtran.xyz"],
   "sdk_version": "0.50.3",
   "addr_prefix": "FIA",
   "min_tx_fee": "118",
