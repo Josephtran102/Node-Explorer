@@ -1,7 +1,7 @@
 {
   "chain_name": "0gchain",
-  "api": ["https://api.0gchain.josephtran.xyz"],
-  "rpc": ["https://rpc.0gchain.josephtran.xyz"],
+  "api": ["https://api-0gchain.josephtran.xyz"],
+  "rpc": ["https://archive-0g.josephtran.xyz"],
   "sdk_version": "0.50.3",
   "addr_prefix": "og",
   "min_tx_fee": "118",
