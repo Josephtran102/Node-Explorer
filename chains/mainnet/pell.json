@@ -5,13 +5,13 @@
   "sdk_version": "0.50.3",
   "addr_prefix": "pell",
   "min_tx_fee": "118",
-  "logo": "/logos/og.jpg",
+  "logo": "/logos/Pell_logo_general-01.png",
   "assets": [
     {
       "symbol": "PELL",
       "base": "upell",
       "exponent": 6,
-      "logo": "/logos/og.jpg"
+      "logo": "/logos/Pell_logo_general-01.png"
     }
   ]
 }
