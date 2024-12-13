@@ -1,7 +1,7 @@
 {
   "chain_name": "Pell",
   "api": ["https://api-pell.j-node.net"],
-  "rpc": ["https://evm-rpc-pell.j-node.net"],
+  "rpc": ["https://rpc-pell.j-node.net"],
   "sdk_version": "0.50.3",
   "addr_prefix": "pell",
   "min_tx_fee": "118",
